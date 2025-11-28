@@ -31,3 +31,9 @@ language = 'zh_CN'
 #html_theme = 'alabaster'
 html_theme = "sphinx_rtd_theme"
 html_static_path = ['_static']
+
+# Hide the "Built with Sphinx" footer
+html_show_sphinx = False
+
+# Optional: Customize the copyright notice or hide it
+# html_show_copyright = False  # Uncomment to hide copyright too
